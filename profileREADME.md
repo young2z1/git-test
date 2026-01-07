@@ -12,7 +12,6 @@
 
 ### [ Tech Stack ]
 - **Languages**: Java, Python, SQL
-- **Languages**: Java, Python, SQL, C+
 - **Frameworks**: Django, Spring Boot
 - **DevOps/Infra**: Docker, VMware, Linux (Ubuntu), Network Separation
 - **Tools**: Git, GitHub, VS Code, Eclipse, MobaXterm, UiPath Studio
