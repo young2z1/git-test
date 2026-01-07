@@ -3,7 +3,7 @@
 ## 📌 Summary
 - **Status**: 4th-year student in Management Information Systems
 - **Target**: Infrastructure & Cloud Engineer
-- **Current**: Focused on Finance IT (Java, Spring Boot, ELK Stack)
+- **Current**: Focused on Finance IT (Java, 자바스크립트, ELK Stack)
 - **Close**: #3
 
 ---
